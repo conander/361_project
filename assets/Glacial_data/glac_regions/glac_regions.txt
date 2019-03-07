@@ -1,0 +1,34 @@
+Glacier regions of the conterminous US
+digitized from USGS National Map "North America Shaded Relief" GeoTIFF
+Projection of source:
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Azimuthal Equal Area
+        Lambert_Azimuthal_Equal_Area:
+          Longitude_of_Projection_Center: -100.00
+          Latitude_of_Projection_Center: 45.00
+          False_Easting: 0.0
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 1000.0
+          Ordinate_Resolution: 1000.0
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: None
+      Ellipsoid_Name: Sphere
+      Semi-major_Axis: 6370997.0
+      Denominator_of_Flattening_Ratio: 1.0
+
+
+I digitized the regions to cover each mountain range in its entirety, rather than just the area of the range that contains glaciers.  My thinking is if the database is ever expanded to include glacial geology data, we want the regions to include past glaciated areas.  I digitized the range extents purely by eye - the boundaries are fairly rough and subjective.
+
+Matt Hoffman
+Oct 28, 2004
+
+I editted these original boundaries to more closely match current glacier extents in order that they would appear more aesthetically pleasing and lead the web user of the online map more directly to the glaciers.
+David Percy
+December 23, 2005
